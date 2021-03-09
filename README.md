@@ -15,3 +15,5 @@ Para la Vista se utiliza Swing
 Está organizado como un proyecto Gradle e incluye el gradle wrapper, aunque para las prácticas no será obligatorio utilizarlo
 
 Nuevo comentario para arreglar el conflicto.
+
+asdasdas
